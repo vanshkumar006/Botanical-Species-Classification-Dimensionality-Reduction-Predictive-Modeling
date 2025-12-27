@@ -1,6 +1,6 @@
 Botanical Species Classification: PCA & Predictive Modeling
 
-This project implements a complete Machine Learning pipeline to classify botanical species (Iris flowers) using the K-Nearest Neighbors (KNN) algorithm.[1][2] It features advanced data visualization through Principal Component Analysis (PCA) and automated hyperparameter tuning to achieve high predictive accuracy.
+This project implements a complete Machine Learning pipeline to classify botanical species (Iris flowers) using the K-Nearest Neighbors (KNN) algorithm.It features advanced data visualization through Principal Component Analysis (PCA) and automated hyperparameter tuning to achieve high predictive accuracy.
 
 🚀 Overview
 The goal of this project is to accurately predict the species of an Iris flower based on its physical measurements: Sepal Length, Sepal Width, Petal Length, and Petal Width. The model distinguishes between three species: Setosa, Versicolor, and Virginica.
